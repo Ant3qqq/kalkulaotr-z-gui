@@ -1,0 +1,2 @@
+# kalkulaotr z gui
+ 
