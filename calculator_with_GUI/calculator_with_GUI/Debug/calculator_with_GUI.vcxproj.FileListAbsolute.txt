@@ -1,0 +1,3 @@
+C:\Users\AntoniPietrzak\Desktop\Kalkulator_z_GUI_cpp\calculator_with_GUI\calculator_with_GUI\Debug\calculator_with_GUI.vcxprojAssemblyReference.cache
+C:\Users\AntoniPietrzak\Desktop\Kalkulator_z_GUI_cpp\calculator_with_GUI\calculator_with_GUI\Debug\calculatorwithGUI.MyForm.resources
+C:\Users\AntoniPietrzak\Desktop\Kalkulator_z_GUI_cpp\calculator_with_GUI\calculator_with_GUI\Debug\calculator_with_GUI.vcxproj.GenerateResource.cache
